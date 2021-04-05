@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThomasLeNguyen
+- 👋 Hi, I’m @ThomasLeNguyen, I'm in a freshman in college
 - 👀 I’m interested in computer science, gaming, and chess
 - 🌱 I’m currently learning C++ and Assembly
 - 💞️ I’m looking to collaborate on various projects with professors and other like-minded people
