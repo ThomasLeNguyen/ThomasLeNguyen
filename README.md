@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ThomasLeNguyen, I'm a sophomore in college
+- 👋 Hi, I’m @ThomasLeNguyen, I'm a junior in college
 - 👀 I’m interested in computer science, gaming, and chess
-- 🌱 I’m currently learning C++ and Assembly
+- 🌱 I’m currently learning databases and object detection
 - 💞️ I’m looking to collaborate on various projects with professors and other like-minded people
 - 📫 How to reach me add me on Discord! justasianthomas#4777
 
