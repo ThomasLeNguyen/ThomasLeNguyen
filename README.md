@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ThomasLeNguyen
-- 👀 I’m interested in computer science, gaming, and chess
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning databases and object detection
 - 💞️ I’m looking to collaborate on various projects with professors and other like-minded people
-- 📫 Add me on Discord! justasianthomas
 - A lot of my repositories are private.
 
 <!---
